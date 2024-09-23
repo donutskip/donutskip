@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @donutskip
-- 👀 I’m interested in latest technologies and Ethical Hacking
+- 👀 I’m interested in latest technologies, Network Engineering, DevNet and Ethical Hacking
 - 🌱 I’m currently learning Ethical hacking
 - 💞️ I’m looking to collaborate with Ethical Hackers
-- 📫 How to reach me jonasjohnd@gmail.com
+- 📫 How to reach me donut@donutskip.com
 
 <!---
 donutskip/donutskip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
